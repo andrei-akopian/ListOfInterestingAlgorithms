@@ -24,7 +24,7 @@ Instead you learn the syntax of the language, or buzzword vocab.
 
 # Algorithms
 
-Infortunetly most tutorials focus on the implementation of the algorithms, and not on the math behind them. So lets make a list of problems that put the math before the code.
+Unfortunetly most tutorials focus on the implementation of the algorithms, and not on the math behind them. So lets make a list of problems that put the math before the code.
 
 ## Template
 
