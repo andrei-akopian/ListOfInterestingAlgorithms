@@ -66,7 +66,7 @@ Name (with wikipedia link): the general name of the algorithm
 
 [Wagner-Fisher](https://en.wikipedia.org/wiki/Wagner%E2%80%93Fischer_algorithm)
 - Problem:
-  - Given to words, find how many insert, delete, or substitute operations you need to change one word into the other. (Used for spellchecking suggestions)
+  - Given two words, find how many insert, delete, or substitute operations you need to change one word into the other. (Used for spellchecking suggestions)
 - Videos:
   - by [b001](https://www.youtube.com/watch?v=d-Eq6x1yssU)
 
